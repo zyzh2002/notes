@@ -1,3 +1,4 @@
 {
-    "editor.unicodeHighlight.nonBasicASCII": false
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
